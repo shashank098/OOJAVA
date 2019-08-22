@@ -1,6 +1,6 @@
 import java.util.*;
 
-class shashank03
+class calc
 {
   public static void main(String args[])
   {
