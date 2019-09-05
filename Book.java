@@ -1,7 +1,4 @@
-//Question---Class book - 4 members: name, author , price, no. of pages. Include a constructor
-// to set the values for the members include methods to set and get details 
-// of the object. Include two string methods that display complete details of 
-//the book. WAP to create and create a book objects
+
 
 import java.util.*;
 class book
