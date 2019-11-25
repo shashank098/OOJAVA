@@ -1,5 +1,3 @@
-
-
 package see;
 
 import java.util.Scanner;
